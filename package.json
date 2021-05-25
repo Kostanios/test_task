@@ -1,0 +1,16 @@
+{
+  "name": "test-task-fe",
+  "version": "1.0.0",
+  "description": "",
+  "main": "calculator.test.js",
+  "scripts": {
+    "test-c": "jest \"./calculator.test.js\"",
+    "test-v": "jest \"./validate.test.js\""
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "jest": "^24.9.0"
+  }
+}
